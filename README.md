@@ -26,7 +26,7 @@ Wherever you'd like to generate a passphrase, just use
 ZooPass.generate(4)
 ```
 
-where the argument is the number of words to have in the generated passphrase.
+where the argument is the desired length of the generated passphrase.
 
 ## Contributing
 
